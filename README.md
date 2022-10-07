@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Archie22is)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archie22is&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archie22is&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
